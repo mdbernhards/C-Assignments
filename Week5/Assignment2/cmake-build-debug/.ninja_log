@@ -1,0 +1,18 @@
+# ninja log v5
+4	277	7180481042823095	build.ninja	6a05d280f4f2161c
+3	72	7169985819124395	CMakeFiles/Assignment2.dir/main.c.obj	b3cd2e4ebfd07fcc
+3	131	7169981342514420	CMakeFiles/Assignment2.dir/functions.c.obj	e0ee7ee476913e6a
+72	155	7169985819920952	Assignment2.exe	24b1eafe3f62581
+4	142	7182128779730056	CMakeFiles/Assignment2.dir/main.c.obj	93599b04ec2ce65
+13	156	7182128779881551	CMakeFiles/Assignment2.dir/functions.c.obj	ac68532ad74fd415
+156	273	7182128780999380	Assignment2.exe	24b1eafe3f62581
+4	183	7182130259270372	CMakeFiles/Assignment2.dir/main.c.obj	93599b04ec2ce65
+185	502	7182130262230090	Assignment2.exe	24b1eafe3f62581
+3	90	7182130788135766	CMakeFiles/Assignment2.dir/main.c.obj	93599b04ec2ce65
+90	183	7182130789039357	Assignment2.exe	24b1eafe3f62581
+4	146	7182130996610716	CMakeFiles/Assignment2.dir/main.c.obj	93599b04ec2ce65
+146	285	7182130997957188	Assignment2.exe	24b1eafe3f62581
+5	138	7182131509494228	CMakeFiles/Assignment2.dir/main.c.obj	93599b04ec2ce65
+138	245	7182131510511135	Assignment2.exe	24b1eafe3f62581
+17	254	7182806329991360	CMakeFiles/Assignment2.dir/main.c.obj	93599b04ec2ce65
+255	489	7182806332291683	Assignment2.exe	24b1eafe3f62581

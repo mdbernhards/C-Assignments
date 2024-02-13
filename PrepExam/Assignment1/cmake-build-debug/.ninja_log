@@ -1,0 +1,8 @@
+# ninja log v5
+12	235	7248098169270061	CMakeFiles/Assignment1.dir/functions.c.obj	a8111362f3bb247d
+19	361	7269743179365870	build.ninja	dbf3cf436c7bfc4
+5	111	7248101023788044	CMakeFiles/Assignment1.dir/main.c.obj	8bd62053c0028f70
+111	217	7248101024797665	Assignment1.exe	a5afe5fc8cfd6548
+4	143	7269765499975495	CMakeFiles/Assignment1.dir/main.c.obj	d25d0126482fbc55
+12	185	7269765500409775	CMakeFiles/Assignment1.dir/functions.c.obj	ade7cd4e5c7747b2
+185	298	7269765501496822	Assignment1.exe	a5afe5fc8cfd6548
