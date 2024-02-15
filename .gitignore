@@ -6,3 +6,12 @@ Week16/Assignment1/cmake-build-debug/.cmake/api/v1/reply/cache-v2-a401686bd2546a
 Week16/Assignment1/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-d08753c08c5ba1cf4669.json
 Week16/Assignment1/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-4a796bbe904b75faffa5.json
 *.exe
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml

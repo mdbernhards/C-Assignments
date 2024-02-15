@@ -1,3 +1,0 @@
-C:/ProgrammingBasics/PrepExam/Assignment1/cmake-build-debug/CMakeFiles/Assignment1.dir
-C:/ProgrammingBasics/PrepExam/Assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/ProgrammingBasics/PrepExam/Assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

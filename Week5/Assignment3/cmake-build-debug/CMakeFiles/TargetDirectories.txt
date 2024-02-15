@@ -1,3 +1,0 @@
-C:/ProgrammingBasics/Week5/Assignment3/cmake-build-debug/CMakeFiles/Assignment3.dir
-C:/ProgrammingBasics/Week5/Assignment3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/ProgrammingBasics/Week5/Assignment3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

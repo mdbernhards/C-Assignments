@@ -1,7 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2023.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\ProgrammingBasics\Week5\Assignment1 -B C:\ProgrammingBasics\Week5\Assignment1\cmake-build-debug
-CMake Error at CMakeLists.txt:8 (target_compile_options):
-  Cannot specify compile options for target "week5" which is not built by
-  this project.
-
-
--- Configuring incomplete, errors occurred!

@@ -1,3 +1,0 @@
-C:/Users/marti/OneDrive/Dators/Programming/Week1/Activity3/cmake-build-debug/CMakeFiles/Activity3.dir
-C:/Users/marti/OneDrive/Dators/Programming/Week1/Activity3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/marti/OneDrive/Dators/Programming/Week1/Activity3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
