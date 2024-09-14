@@ -1,21 +1,15 @@
-const int ledPin = 13;
-const int buzzerPin = 12;
-int delayTime = 1000;
-
-void setup() {
-  pinMode(ledPin, OUTPUT);
-  digitalWrite(ledPin, HIGH);
+void setup()
+{
   pinMode(LED_BUILTIN, OUTPUT);
-  digitalWrite(LED_BUILTIN, HIGH);
-  pinMode(buzzerPin, OUTPUT);
-  digitalWrite(buzzerPin, HIGH);
+  pinMode(A0, INPUT);
+  pinMode(6, OUTPUT);
+  Serial.begin(9600);
 }
 
-void loop() {
-  delay(delayTime);
-  digitalWrite(ledPin, HIGH);
-  delay(delayTime);
-  digitalWrite(ledPin, LOW);
-
-  delayTime = delayTime-30;
+void loop()
+{
+  int temp = analogRead(A0);
+  analogWrite(6,map(temp,0, 1023, 0, 255)); 
+ Serial.println(temp);
+  
 }
